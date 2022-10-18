@@ -1,0 +1,8 @@
+Git:
+git init           [means initialisation]
+git add .
+git commit -m"version1.0"
+git status
+git cinfig --global user.name "your name"     [for registring your name]
+git config --global user.email "gmail"        [for registring your email]
+git log       [gives deltail about all versions]
